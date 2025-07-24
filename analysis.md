@@ -16,7 +16,8 @@ Wallets were categorized into the following score brackets:
 | Fair       | 400–599     | Average behavior, moderate risk   |
 | Risky      | 0–399       | High-risk or suspicious patterns  |
 
-![Wallet Credit Score Distribution](./6429e4ee-adc4-44f8-8086-bf0b7d9b0ddc.png)
+![Wallet Credit Score Distribution]
+<img width="790" height="490" alt="output" src="https://github.com/user-attachments/assets/394bc370-be4f-42a6-8d8e-3cb0b26f1e09" />
 
 ---
 
